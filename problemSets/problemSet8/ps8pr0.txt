@@ -1,0 +1,7 @@
+﻿Problem Set 8, Problem 0
+Put your response to the reading below.
+IMPORTANT: When you are done, you must download the file as plain-text, not as a PDF.
+Use File->Download->Plain Text.
+
+
+Computers learn in a much more rigid and set way compared to humans. They are defined by their circuitry and their programming that was made by humans. All though they can be programmed to teach themselves, the constant experience that humans pick up on is much more vast than computers. People are able to form new solutions for problems through intuition, but computers must have previous data in order to do so. Of course, our intuition comes from our experiences so they are similar in a sense. I think that it is plausible for computers to be able to learn completely independently from humans, but not in the foreseeable future, as the complexities and nuances of the human mind are still not fully understood by us.

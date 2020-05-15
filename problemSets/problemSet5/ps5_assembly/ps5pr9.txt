@@ -1,0 +1,27 @@
+#
+# ps5pr9.txt (Problem Set 5, Problem 9)
+#
+# Calling a distance function twice
+#
+
+00	read 	r1				#get input for r1 from user
+01	read 	r2				#get input for r2 from user
+02	read 	r3				#get input for r3 from user
+03	call 	r14 15			#call the function at line 15
+04	copy 	r12 r13			#puts the return value for the function of r1 and r2 in r12
+05	copy	r4 r2			#puts r2 into r4 to store
+06	copy	r2 r3			#turns r2 into r3
+07	call	r14 15			#calls the function at line 15
+08	sub		r9 r12 r13		#conditional check for if the first return value is less than the second one
+09	jgtz	r9 12			#if first return value is farther than the second jump to line 12
+10	write	r4				#print out r3
+11	jumpn	13				#jump to line 13
+12	write 	r3				#print out the original value of r2
+13	halt
+14	nop
+15	sub 	r9 r2 r1		#conditional check to see if r2 is above or below r1
+16	jltz	r9 19			#jump to line 19 if r9 is less than 0
+17	sub 	r13 r2 r1		#r13=r2-r1
+18	jumpr 	r14				#end function
+19	sub		r13 r1 r2		#r13=r1-r2
+20	jumpr 	r14				#end function

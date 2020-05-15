@@ -1,0 +1,11 @@
+The sources that I used were the compilation of works of Shakespeare given in the problem set
+and four articles from the new york times
+
+I chose to compare them to my wr120 essay over the manchurian candidate, an article from the boston globe,
+the christmas carol by Charles Dickens, and the first episode of family guy
+
+All of the text were more likely to come from the nytimes besides the christmas carol.
+
+I think that it works fine overall. However, a better method than the amount of punctuation could be used for determing 
+the source. This is because if you compile a lot of text for one source, it's going to have more sentences naturally,
+so comparing it to something short like my essay will give the source with less text the advantage.
